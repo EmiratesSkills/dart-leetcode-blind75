@@ -1,7 +1,7 @@
 # Blind 75 LeetCode Solutions in Dart  
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Blind%2075-orange?style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-2.0+-blue?style=for-the-badge)
+![Dart](https://img.shields.io/badge/Dart-3.4.1+-blue?style=for-the-badge)
 
 ## 📌 Overview  
 This repository contains efficient **Dart** implementations of the **Blind 75 LeetCode** problems. The goal is to provide well-structured, optimized solutions while improving problem-solving skills using Dart.
